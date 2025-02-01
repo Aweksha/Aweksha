@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- I should have started this in highschool, but hey, at least I am here.
+- Been a little nerd for the longest time.
+- Seeing where this takes me
 <!--
 **Aweksha/Aweksha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
